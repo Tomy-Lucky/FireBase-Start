@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "450527725878",
+    "firebase_url": "https://fir-start-ebd50.firebaseio.com",
+    "project_id": "fir-start-ebd50",
+    "storage_bucket": "fir-start-ebd50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450527725878:android:c9bc60ae8df08f44c50b97",
+        "android_client_info": {
+          "package_name": "com.arcadegamepark.firebasestart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450527725878-mquc60ampca3kc93920e65ll791qe41u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVsK_9KTusLW4BNrAjfD0a6VoYRBz79g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450527725878-mquc60ampca3kc93920e65ll791qe41u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
